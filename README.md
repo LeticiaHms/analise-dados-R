@@ -29,4 +29,4 @@ O objetivo deste portfólio é demonstrar minhas habilidades e conhecimento na p
 - RStudio: IDE para desenvolvimento.
 - Pacotes: dplyr, tidyr, ggplot2.
 
-# 📬 Entre em Contato: leticia.hms@outlook.com
+#### 📬 Entre em Contato: leticia.hms@outlook.com
