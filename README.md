@@ -23,10 +23,10 @@ O objetivo deste portfólio é demonstrar minhas habilidades e conhecimento na p
 #### Gráficos de Linha e Distribuição, Linhas de Tendência, Gráficos de Barras, Histogramas e Mapas de Calor
 - Aplicação de técnicas para criar gráficos diversos, como gráficos de linha, distribuição, barras, histogramas e mapas de calor, fundamentais para a análise visual de dados.
 
-### 💻 Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
 - R: Linguagem principal.
 - RStudio: IDE para desenvolvimento.
 - Pacotes: dplyr, tidyr, ggplot2.
 
-#### 📬 Entre em Contato: leticia.hms@outlook.com
+#### Entre em Contato: leticia.hms@outlook.com
