@@ -6,7 +6,7 @@ Este repositório reúne projetos e exercícios realizados durante o aprendizado
 
 O objetivo deste portfólio é demonstrar minhas habilidades e conhecimento na programação em R, abordando conceitos fundamentais e avançados em Ciência de Dados. A seguir, apresento os tópicos que foram explorados neste processo:
 
-### Conteúdo Programático
+## Conteúdo Programático em R
 
 #### Ambientes de Desenvolvimento RStudio e RStudio Cloud
 - Familiarização com ambientes de desenvolvimento como RStudio e RStudio Cloud para otimizar a produtividade no processo de codificação e análise de dados.
@@ -29,4 +29,5 @@ O objetivo deste portfólio é demonstrar minhas habilidades e conhecimento na p
 - RStudio: IDE para desenvolvimento.
 - Pacotes: dplyr, tidyr, ggplot2.
 
+## Conteúdo Programático em R
 #### Entre em Contato: leticia.hms@outlook.com
